@@ -18,9 +18,9 @@ Declare an array (2D) name myInformation of type char that can store your full n
 Declare an array (2D) name theValue of type int that can store listed value from the table below. Next, print the value from row 2 column 3 as follow: 
 * Value from Row 2 and Column 3 is _____
  
-|10|100|20|
-|50|20|40|
-|40|40|10|
+|10 |100 | 20|
+|50 |20 | 40|
+|40 |40 | 10|
 
 # Exercise 5
 Write a loop to find the average of n numbers using arrays and print the average value as follow: 
