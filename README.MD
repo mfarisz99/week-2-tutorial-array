@@ -21,7 +21,7 @@ Declare an array (1D) name myName of type char that can store your full name in 
 
 # Exercise 3
 Declare an array (2D) name myAlphabet of type char that can store listed value from the table below. Next, print the value from row 3 column 3 as follow:
-* Value from Row 3 and Column 3 is _____
+* Character from Row 3 and Column 3 is _____
 
 |Char 1 |Char 2 |Char 3 |
 |-------|-------|-------|
