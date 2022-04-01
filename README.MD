@@ -20,7 +20,14 @@ Declare an array (1D) name myName of type char that can store your full name in 
 * My Name is _____, Bachelor of Information Technology from Universiti Malaysia Kelantan
 
 # Exercise 3
-Declare an array (2D) name myInformation of type char that can store your full name, name of your bachelor program and university name. Next, print the output. 
+Declare an array (2D) name myAlphabet of type char that can store listed value from the table below. Next, print the value from row 3 column 3 as follow:
+* Value from Row 3 and Column 3 is _____
+
+|Char 1 |Char 2 |Char 3 |
+|-------|-------|-------|
+|h      |g      |f      |
+|c      |n      |p      |
+|o      |m      |q      |
 
 # Exercise 4
 Declare an array (2D) name theValue of type int that can store listed value from the table below. Next, print the value from row 2 column 3 as follow: 
