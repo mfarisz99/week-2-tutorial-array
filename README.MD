@@ -40,5 +40,5 @@ Declare an array (2D) name theValue of type int that can store listed value from
 |40     |40     |10     |
 
 # Exercise 5
-Write a loop to find the average of n numbers using arrays and print the average value as follow: 
+Write a program to find the average of 5 numbers insert by the user using arrays and print the average value as follow: 
 * Average value is _____
