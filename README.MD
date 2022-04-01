@@ -1,8 +1,16 @@
 # Tutorial 2 - Array 
-This tutorial cover 1D-array and 2D-array, please answer all questions. 
+This tutorial cover 1D-array and 2D-array, please answer all questions :octocat:
 
 # Instructions
-This tutorial consists with 5 questions (exercise1.c, exercise2.c, exercise3.c, exercise4.c, exercise5.c). Try to complete this tutorial by commit your changes and read the question carefully. 
+This tutorial consists with 5 questions: 
+
+* Exercise 1
+* Exercise 2
+* Exercise 3
+* Exercise 4
+* Exercise 5
+
+Try to complete this tutorial by commit your changes and read the question carefully :star:
 
 # Exercise 1
 Declare an array (1D) name currencyWorld of type float that can store up to 5 floating-point number. Initialize the value for currencyWorld with 4.50, 5.55, 3.65, 1.20, 6.56. Next, print the third element from the array. 
