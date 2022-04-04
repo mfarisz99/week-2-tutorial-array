@@ -9,8 +9,21 @@
 
 //main function section 
 int main(){
-    //write here your program
+    
+   int num[5];
+   int sum = 0; 
+   int i; 
 
+   printf("Enter 5 value :\n");
+       
+    for (i = 0; i < 5; i++)
+    {
+        scanf("%d", &num[i]);
+        sum = sum + num[i];
+    }
+
+    int average = sum / 5;
+    printf("Average value is %d", average); 
 
     return 0;
 }
